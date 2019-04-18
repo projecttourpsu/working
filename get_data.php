@@ -1,5 +1,5 @@
 <?php
-	//connect Database
+	//connect Database เชื่อมต่อฐานข้อมูล
 	$servername = "localhost";
 	$username = "root";
 	$password = "";
@@ -11,7 +11,7 @@
 	// Change character set to utf8
 	mysqli_set_charset($conn,"utf8");
 
-	// Check connection
+	// Check connection ตรวจสอบการเชื่อมต่อ
 	if ($conn->connect_error) {
 		die("Connection failed: " . $conn->connect_error);
 	} 
