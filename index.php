@@ -368,45 +368,7 @@ include('page/connection.php');  //ไฟล์เชื่อมต่อกั
     <!-- ################################################################################################ -->
     <!-- ################################################################################################ -->
     <!-- ################################################################################################ -->
-    <div class="wrapper  overlay" style="background-image:url('images/demo/backgrounds/03.jpg');">
-        <section class="hoc container clear">
-            <!-- ################################################################################################ -->
-            <div class="sectiontitle">
-
-            </div>
-            <ul class="nospace group center">
-                <li class="one_quarter first">
-                    <article><a href="#"><i class="icon btmspace-30 fa fa-globe"></i></a>
-                        <h6 class="heading font-x1">Local Stories</h6>
-                        <p>Est pellentesque tempus sodales justo lectus faucibus neque a mollis augue arcu&hellip;</p>
-                    </article>
-                </li>
-                <li class="one_quarter">
-                    <article><a href="#"><i class="icon btmspace-30 fa fa-history"></i></a>
-                        <h6 class="heading font-x1">Suspendisse potenti</h6>
-                        <p>Fusce consequat ipsum non ipsum aliquam iaculis odio non bibendum bibendum erat&hellip;</p>
-                    </article>
-                </li>
-                <li class="one_quarter">
-                    <article><a href="#"><i class="icon btmspace-30 fa fa-handshake-o"></i></a>
-                        <h6 class="heading font-x1">Donec sagittis purus</h6>
-                        <p>Dolor ut dignissim ipsum nisl sit amet metus nam dui dui rhoncus tempus aliquam&hellip;</p>
-                    </article>
-                </li>
-                <li class="one_quarter">
-                    <article><a href="#"><i class="icon btmspace-30 fa fa-plane"></i></a>
-                        <h6 class="heading font-x1">Ullamcorper odio sed</h6>
-                        <p>Rutrum vel tellus donec tortor lectus varius vel egestas a dictum in odio sed&hellip;</p>
-                    </article>
-                </li>
-            </ul>
-            <!-- ################################################################################################ -->
-        </section>
-    </div>
-    <br><br>
-    <!-- ################################################################################################ -->
-    <!-- ################################################################################################ -->
-    <!-- ################################################################################################ -->
+   
     <div class="wrapper row3">
         <section class="hoc container clear">
             <!-- ################################################################################################ -->
